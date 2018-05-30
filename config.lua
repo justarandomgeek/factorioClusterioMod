@@ -41,7 +41,7 @@ INV_COMBINATOR_NAME = "inventory-combinator"
 
 OUTPUT_FILE = "output.txt"
 ORDER_FILE  = "orders.txt"
-TX_BUFFER_FILE = "txbuffer.txt"
+TX_BUFFER_FILE = "txbuffer2.txt"
 FLOWS_FILE = "flows.txt"
 
 MAX_FLUID_AMOUNT = 25000
